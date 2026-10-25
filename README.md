@@ -1,4 +1,4 @@
-# GoalUPSC taxonomy: data release
+# goalupsc taxonomy: data release
 
 This release contains a 187-tag taxonomy derived from the UPSC Civil Services syllabus (Examination Notice No. 05/2026-CSE), and its links to past examination questions and to textbook passages. Tags were assigned by language models (Claude Sonnet 5 for 2013-2026; Claude Haiku 5.5 for Prelims 1993-2012) from a closed list of tags, with automated validation of the output.
 
