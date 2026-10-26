@@ -4,5 +4,5 @@ tag_id,name,paper,topic,subtopic,level,parent_tag_id,is_remainder,note
 200,PRELIMS PAPER TWO-COMPREHENSION,Prelims Paper II,COMPREHENSION,,2,,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
 201,PRELIMS PAPER TWO-GENERAL MENTAL ABILITY (GMAT),Prelims Paper II,GENERAL MENTAL ABILITY (GMAT),,2,,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
 202,PRELIMS PAPER TWO-LOGICAL REASONING,Prelims Paper II,LOGICAL REASONING,,2,,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
-203,PRELIMS PAPER TWO-INTERPERSONAL SKILLS INCLUDING COMMUNICATION SKILLS,,2,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
-204,PRELIMS PAPER TWO-DECISION MAKING AND PROBLEM SOLVING,,2,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
+203,PRELIMS PAPER TWO-INTERPERSONAL SKILLS INCLUDING COMMUNICATION SKILLS,PRELIMS PAPER TWO,INTERPERSONAL SKILLS INCLUDING COMMUNICATION SKILLS,,2,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
+204,PRELIMS PAPER TWO-DECISION MAKING AND PROBLEM SOLVING,PRELIMS PAPER TWO,DECISION MAKING AND PROBLEM SOLVING,,2,false,marks aptitude items in the pre-2011 single Prelims paper; not part of the taxonomy
